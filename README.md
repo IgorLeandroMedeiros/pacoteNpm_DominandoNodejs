@@ -9,6 +9,7 @@ npm install @ildm/demo-package
 ## Uso
 
 ```js
-import {sum} from '@ildm/demo-package'
+import {sum, multiply} from '@ildm/demo-package'
 console.log(sum(1, 2)
+console.log(multiply(5, 2)
 ```
